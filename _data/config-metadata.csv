@@ -13,6 +13,6 @@ type,Type,
 format,Format,
 rights,Rights,
 rightsstatement,Rights Statement,,true
-citation,Citation
-rightsnotes,Rights Notes
-archivedpage,Archived Page
+citation,Citation,
+rightsnotes,Rights Notes,
+archivedpage,Archived Page,
